@@ -3,8 +3,7 @@ import Steps from './Steps';
 import { useNavigate } from 'react-router-dom';
 import Papa from 'papaparse';
 import Swal from 'sweetalert2';
-import ChartComponent from '../ChartComponent';
-import ResponsiveLineChart from '../ResponsiveLineChart';
+import ResponsiveLineChart from '../../components/ResponsiveLineChart';
 
 
 const StepTwo = () => {

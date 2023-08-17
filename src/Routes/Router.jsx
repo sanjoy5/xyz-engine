@@ -2,8 +2,8 @@ import {
     createBrowserRouter,
 } from "react-router-dom"
 import Main from "../Layout/Main";
-import StepOne from "../components/Steps/StepOne";
-import StepTwo from "../components/Steps/StepTwo";
+import StepOne from "../Pages/Steps/StepOne";
+import StepTwo from "../Pages/Steps/StepTwo";
 import ResultPage from "../Pages/ResultPage/ResultPage";
 
 
