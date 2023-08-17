@@ -1,8 +1,27 @@
-# React + Vite
+# XYZ Engine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created with ReactJS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design
+- Two Step Form Functionality
+- User can Upload the CSV file, 6(six) input fields will fill automatically, reading from the csv file.
+- Read the csv file and find the max and min values of X, Y, Z.
+- Created a result page which shows all the input values in a table.
+- User can download the result page as a PDF
+- When User Uplod the csv file then User can see the chart.
+- Site deploy in Netlify
+
+## Live Site Link
+
+- [Firebase Live Client Side Link](https://bejewelled-cucurucho-dc5300.netlify.app)
+
+## Installation
+
+### For Client Side
+
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Run `npm run dev` to start the development server
+
